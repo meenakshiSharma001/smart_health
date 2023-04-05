@@ -1,0 +1,9 @@
+.App {
+  text-align: left;
+  padding: 20px
+}
+.App .condition-table {
+  border-collapse: "collapse";
+  width: "100%";
+  border: "1px solid #ddd"
+}
